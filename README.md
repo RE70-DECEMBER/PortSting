@@ -1,8 +1,27 @@
-A basic fast TCP port scanner written in golang that can only detect open states does not detect UDP ports and filtered ports and does not have banner grabbing :( sorry im new to coding so i did not add those features
 
+## Installation
+```bash
+sudo apt-get update && sudo apt-get upgrade
+```
 
-commands to use
-
+```bash
+git clone https://github.com/RE70-DECEMBER/UdpFlooder](https://github.com/RE70-DECEMBER/PortSting
+```
+```bash
+cd PortSting
+```
+```bash
+sudo apt-get install golang
+```
+```bash
 go build
+```
 
-./portsting -t 127.0.0.1
+
+## Usage
+```bash
+./PortSting -t 0.0.0.0
+```
+
+## Flags
+-t Target Ip address
