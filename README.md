@@ -20,7 +20,7 @@ go build
 
 ## Usage
 ```bash
-./PortSting -t 0.0.0.0
+./portsting -t 0.0.0.0
 ```
 
 ## Flags
