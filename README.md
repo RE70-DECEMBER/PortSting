@@ -5,7 +5,7 @@ sudo apt-get update && sudo apt-get upgrade
 ```
 
 ```bash
-git clone https://github.com/RE70-DECEMBER/UdpFlooder](https://github.com/RE70-DECEMBER/PortSting
+git clone https://github.com/RE70-DECEMBER/PortSting
 ```
 ```bash
 cd PortSting
